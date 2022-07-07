@@ -2,7 +2,7 @@
 
 #### Qu'est-ce que Markdown?
 Le Markdown est un langage de balisage inventé par John Gruber en 2004 permettant de formater du texte brut de manière simple pour un rendu en HTML ou dans un autre format.
-#### 3 avantages à utiliser Markdown
+#### Trois avantages à utiliser Markdown
 1. 100 % gratuit
 2. langage simple à maîtriser
 3. documents occupant peu de place
